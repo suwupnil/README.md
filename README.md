@@ -19,12 +19,9 @@
 
 ## 🛋️ The Loft
 
-```txt
-╭─────────────────────────────────────────────╮
-│  ☕ Coffee nearby  │  🎧 Lo-fi on  │  💻 IDE open  │
-│  Building things that feel simple + elegant │
-╰─────────────────────────────────────────────╯
-```
+| ☕ Coffee nearby | 🎧 Lo-fi on | 💻 IDE open |
+| :-------------- | :---------- | :---------- |
+| Warm lighting | Deep focus | Clean commits |
 
 ## ✨ What I’m focused on
 
@@ -41,8 +38,9 @@
 ## 📈 GitHub Highlights
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=suwupnil&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suwupnil&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img src="https://img.shields.io/github/followers/suwupnil?label=Followers&style=for-the-badge&color=7C3AED&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/suwupnil?affiliations=OWNER&style=for-the-badge&color=EC4899&logo=github" alt="stars" />
+  <img src="https://img.shields.io/github/last-commit/suwupnil/README.md?style=for-the-badge&color=0EA5E9&logo=git" alt="last commit" />
 </div>
 
 ## 🌐 Connect
